@@ -4,19 +4,17 @@
 ###
 
 ## Summary:
-#### This repo contains codes for Machine Learning and Ar.
+#### This repo contains codes for Machine Intelligence - Machine Learning and Artificial Intelligence .
 ###
 ## Techstack used here is as follows:
 #### -> Python
-#### -> Prolog
-#### -> JFLAP
-##### -< Kindly ensure that the installation of the same is done. >-
+#### -> Jupyter notebook (python)
 ###
  
 ## Steps for execution:
 
-  #### 1. Clone the 'Automata-Logic' github repository.
-  #### 2. Navigate to the 'Automata_Logic' Directory in that.
+  #### 1. Clone the 'Machine-Intelligence' github repository.
+  #### 2. Navigate to the 'Machine_Intelligence' Directory in that.
   #### 3. Open the individual directories.
   #### 4. To execute, refer the example below. 
   
