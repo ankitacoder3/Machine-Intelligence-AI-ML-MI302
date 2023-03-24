@@ -16,7 +16,7 @@
   #### 1. Clone the 'Machine-Intelligence' github repository.
   #### 2. Navigate to the 'Machine_Intelligence' Directory in that.
   #### 3. Open the individual directories.
-  #### 4. To execute, refer the example below. 
+  #### 4. 
   
   
   ###
