@@ -7,14 +7,14 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--NAME', required=True)
 
 args = parser.parse_args()
-subname = args.SRN
+subname = args.NAME
 
 
 try:
    mymodule = importlib.import_module(subname)
 except Exception as e:
     print(e)
-    print("run python3.7 SampleTest.py --NAME Search_Algorithm ")
+    print("run python SampleTest.py --NAME Search_Algorithm ")
     sys.exit()
 
 
