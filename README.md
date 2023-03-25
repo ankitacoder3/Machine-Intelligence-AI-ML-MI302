@@ -20,8 +20,8 @@
   #### 5. Type 'python SampleTest.py --NAME Name' in the command prompt. (if the name of file is Name.py)
   #### 6. The output of the testcases is present in the command prompt.
   #### 7. Exception- For the 'Basics' directory follow the following steps:-
-  #####    a. After Step '2',  Navigate to the 'Basics' directory in the 'Jupyter notebook' filesystem.
-  #####    b. Doubleclick on the 'Basics.ipynb' to open the same.
+  #####    **a. After Step '2',  Navigate to the 'Basics' directory in the 'Jupyter notebook' filesystem.**
+  #####    b. Doubleclick on the 'Numpy_Pandas_Basics.ipynb' to open the same.
   #####    c. The commands with its already executed outputs is present in the jupyter notebook.
   ####
    #### -> Refer the example given below, for a better understanding of the same.
