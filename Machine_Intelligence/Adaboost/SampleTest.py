@@ -10,14 +10,14 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--NAME', required=True)
 
 args = parser.parse_args()
-subname = args.SRN
+subname = args.NAME
 
 
 try:
     mymodule = importlib.import_module(subname)
 except Exception as e:
     print(e)
-    print("Run python3.7 SampleTest.py --NAME Adaboost ")
+    print("Run python SampleTest.py --NAME Adaboost ")
     sys.exit()
 
 y = np.array([1, 1, 2, 2, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 2, 0, 2, 0])
