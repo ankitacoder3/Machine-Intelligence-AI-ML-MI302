@@ -35,8 +35,8 @@
   #### i. Clone the 'Machine-Intelligence' github repository.
   #### ii. Navigate to the 'Machine_Intelligence' Directory in that.
   #### iii. Open command prompt and navigate to the 'Machine_Intelligence' Directory in that. [Except- for the 'Basics' directory]
-  #### iv. Then, navigate to the individual directories, (say the *'Search_Algorithm' directory* ),  in the command prompt. 
-  #### v. Type *'python SampleTest.py --NAME Search_Algorithm'* in the command prompt. (if the name of file is *'Search_Algorithm.py'*)
+  #### iv. Then, navigate to the individual directories, (say the *'Support_Vector_Machines' directory* ),  in the command prompt. 
+  #### v. Type *'python SampleTest.py --NAME Support_Vector_Machines'* in the command prompt. (if the name of file is *'Support_Vector_Machines.py'*)
   #### vi. The output of the testcases is present in the command prompt.
  
 
