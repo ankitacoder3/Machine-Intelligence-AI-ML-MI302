@@ -15,7 +15,8 @@
 
   #### 1. Clone the 'Machine-Intelligence' github repository.
   #### 2. Navigate to the 'Machine_Intelligence' Directory in that.
-  #### 3. Open command prompt and navigate to the 'Machine_Intelligence' Directory in that. [Except- for the 'Basics' directory]
+  #### 3. Open command prompt and navigate to the 'Machine_Intelligence' Directory in that. 
+  #### [Except- for the 'Basics' directory]
   #### 4. Then, navigate to the individual directories in the command prompt. 
   #### 5. Type 'python SampleTest.py --NAME Name' in the command prompt. (if the name of file is Name.py)
   #### 6. The output of the testcases is present in the command prompt.
