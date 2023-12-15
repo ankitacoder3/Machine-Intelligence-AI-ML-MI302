@@ -38,7 +38,28 @@
   #### iv. Then, navigate to the individual directories, (say the *'Support_Vector_Machines' directory* ),  in the command prompt. 
   #### v. Type *'python SampleTest.py --NAME Support_Vector_Machines'* in the command prompt. (if the name of file is *'Support_Vector_Machines.py'*)
   #### vi. The output of the testcases is present in the command prompt.
- 
+
+
+
+## Screenshots
+
+1. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/dc4f274f-bc27-4e99-bc19-50c9ded2387e)
+2. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/be0e8d98-fab0-46d1-b39f-c94765dde496)
+3. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/359feb33-6c38-4e64-b8b2-a855ae20b904)
+4. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/56b99ea5-d4ca-49a0-8653-c71b4df1f25f)
+5. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/f16aa7cd-95e5-4aea-ae39-7d1a7ef48a71)
+6. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/91af0eb4-6f84-4a5c-8f07-02c234a17536)
+7. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/e028a949-28be-4619-986d-bd221026d05c)
+8. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/2dcbdfb9-1172-4596-8d10-5d3f1d0d5246)
+
+
+
+
+
+
+
+
+
 
   ###
   ###
