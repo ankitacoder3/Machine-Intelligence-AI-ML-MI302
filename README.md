@@ -52,6 +52,11 @@
 7. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/e028a949-28be-4619-986d-bd221026d05c)
 8. ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/2dcbdfb9-1172-4596-8d10-5d3f1d0d5246)
 
+![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/d3e9ae67-bc7e-4c08-974b-bd0bbbf6bf0a)
+
+![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/82b497ac-cb1d-4a41-8ef1-8eeb1fa6e1d4)
+
+
 
 
 
