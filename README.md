@@ -56,6 +56,9 @@
 
 ![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/82b497ac-cb1d-4a41-8ef1-8eeb1fa6e1d4)
 
+![image](https://github.com/ankitacoder3/Machine-Intelligence/assets/73939061/8b3c724f-d52f-4d56-ade6-6f0a38e6a41b)
+
+
 
 
 
