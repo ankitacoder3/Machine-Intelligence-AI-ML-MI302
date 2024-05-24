@@ -1,4 +1,4 @@
-# Machine-Intelligence
+# Machine-Intelligence-MI302
 ###
 ###
 ###
