@@ -7,8 +7,8 @@
 #### This repo contains codes for Machine Intelligence - Machine Learning and Artificial Intelligence .
 ###
 ## Techstack used here is as follows:
-#### -> Python
-#### -> Jupyter notebook (python)
+ * Python
+ * Jupyter notebook (python)
 ###
  
 ## Steps for execution:
